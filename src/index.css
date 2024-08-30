@@ -6,5 +6,9 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Noto Serif', serif;
-    background: #130131;
+    background-color: #EBEBEB;
+}
+
+.dark{
+    background-color: #121212;
 }

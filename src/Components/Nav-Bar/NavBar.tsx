@@ -1,12 +1,14 @@
 import { Disclosure} from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import { useState, useEffect } from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faSun, faMoon } from '@fortawesome/free-solid-svg-icons'
 
 const navigation = [
   { name: 'Sobre mi', href: '/', current: false },
-  { name: 'Experiencia', href: '/experience', current: false },
-  { name: 'Formación', href: '/formacion', current: false },
-  { name: 'Videojuegos', href: '/games', current: false },
-  { name: 'Plataformas web', href: '/pages-Web', current: false },
+  { name: 'Proyectos', href: '/Projects', current: false },
+  { name: 'Contacto', href: '/Contact', current: false },
+  { name: 'ES/EN', href: '', current: false },
 ]
 
 function classNames(...classes: string[]) {
@@ -14,12 +16,26 @@ function classNames(...classes: string[]) {
 }
 
 const Navbar = () => {
+    const [theme, setTheme] = useState("dark")
+
+    useEffect(()=>{
+        if(theme ==="dark"){
+            document.querySelector('html')?.classList.add('dark');
+        }else{
+            document.querySelector('html')?.classList.remove('dark');
+        }
+    }, [theme])
+
+    const changeTheme = () =>{
+        setTheme(prevTheme => prevTheme === "light" ? "dark" : "light")
+    }
+
 
     return(
         <Disclosure as="nav">
             {({ open }) => (
                 <>
-                    <div className="px-2 sm:px-6 lg:px-8">
+                    <div className="px-2 sm:px-6 lg:px-8 dark:bg-[#1F1F1F] bg-[#CDB4DB]">
                         <div className="relative flex h-16 items-center justify-between">
                             <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
                                 {/* Mobile menu button*/}
@@ -42,8 +58,8 @@ const Navbar = () => {
                                         key={item.name}
                                         href={item.href}
                                         className={classNames(
-                                        item.current ? 'text-white' : 'text-gray-300 hover:border-b-indigo-500 hover:border-2 hover:border-transparent',
-                                        'px-3 py-2 text-sm font-medium'
+                                        item.current ? 'dark:text-[#1BD8AA] text-[#A8DADC] border-2 border-b-transparent' : 
+                                        'text-gray-300 px-3 py-2 text-sm font-medium hover:dark:text-[#1BD8AA] hover:dark:border-b-[#1BD8AA] hover:border-b-[#A8DADC] hover:border-2 hover:border-transparent'
                                         )}
                                         aria-current={item.current ? 'page' : undefined}
                                     >
@@ -53,6 +69,10 @@ const Navbar = () => {
                                 </div>
                                 </div>
                             </div>
+                        <button className='bg-slate-200 px-4 py-2 rounded hover:bg-slate-300 dark:bg-slate-500'
+                            onClick={changeTheme}
+                        ><FontAwesomeIcon icon={theme === "light" ? faSun : faMoon} />
+                        </button>
                         </div>
                     </div>
 
@@ -76,6 +96,7 @@ const Navbar = () => {
                     </Disclosure.Panel>
                 </>
             )}
+
         </Disclosure>
     )
 }

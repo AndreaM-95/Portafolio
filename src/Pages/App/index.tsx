@@ -1,20 +1,17 @@
 import { useRoutes , BrowserRouter } from 'react-router-dom';
 import './App.css'
-import Navbar from '../../Components/Nav-Bar';
-import Home from '../Home';
-import Experience from '../Experience';
-import Formacion from '../Formacion';
-import Games from '../Games';
-import PagesWeb from '../Pages-Web';
+import Navbar from '../../Components/Nav-Bar/NavBar';
+import AboutMe from '../About-Me';
+import Projects from '../Projects';
+import Contact from '../Contact';
+import Footer from '../../Components/Footer/Footer';
 
 
 const AppRoutes = () => {
   const routes = useRoutes([
-    { path:'/', element:<Home />},
-    { path: '/Experience', element: <Experience /> },
-    { path: '/Formacion', element: <Formacion /> },
-    { path: '/Games', element: <Games /> },
-    { path: '/Pages-Web', element: <PagesWeb/> },
+    { path:'/', element:<AboutMe />},
+    { path: '/Projects', element: <Projects /> },
+    { path: '/Contact', element: <Contact /> },
   ])
   return routes
 }
@@ -25,6 +22,7 @@ const App = () => {
     <BrowserRouter>
       <Navbar />
       <AppRoutes />
+      <Footer />
     </BrowserRouter>
   )
 }

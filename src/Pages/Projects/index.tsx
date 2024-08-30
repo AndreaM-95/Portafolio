@@ -1,7 +1,7 @@
-export default function Experience() {
+export default function Projects() {
     return (
       <div className="bg-orange-200">
-        Experiencia
+        Proyectos
       </div>
     )
 }

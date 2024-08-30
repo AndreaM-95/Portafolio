@@ -1,0 +1,25 @@
+[
+    {"cargo": "Programador de videojuegos web", 
+    "empresa": "Books & Books Ltda", 
+    "tiempo": "Abril - Noviembre 2023",
+    "tarea1": "Programé y diseñé simuladores interactivos utilizando Unity y C#.",
+    "tarea2": "Implementé interfaces de usuario intuitivas y responsivas.",
+    "tarea3": "Colaboré en la creación de entornos 3D para seis escenasdiferentes, mejorando la inmersión del usuario."
+    },
+
+    {"cargo": "Modelador 3D", 
+    "empresa": "Workobot", 
+    "tiempo": "3 meses",
+    "tarea1": "",
+    "tarea2": "",
+    "tarea3": ""
+    },
+
+    {"cargo": "Monitora - Practicas", 
+    "empresa": "Sena", 
+    "tiempo": "3 meses",
+    "tarea1": "",
+    "tarea2": "",
+    "tarea3": ""
+    }
+]

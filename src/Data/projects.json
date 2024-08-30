@@ -1,0 +1,34 @@
+[
+    {
+        "tipo": "Web",
+        "imagen":"", 
+        "titulo":"To-Do", 
+        "tag1":"React", 
+        "tag2":"Tailwind", 
+        "tag3":"Jenkins", 
+        "rol":"",
+        "enlace": ""
+    },
+    
+    {
+        "tipo": "",
+        "imagen":"", 
+        "titulo":"Ajiaco Apurado", 
+        "tag1":"Unity", 
+        "tag2":"C#", 
+        "tag3":"GGJ", 
+        "rol":"",
+        "enlace": ""
+    },
+    
+    {
+        "tipo": "",
+        "imagen":"", 
+        "titulo":"Exploración", 
+        "tag1":"Unity", 
+        "tag2":"C#", 
+        "tag3":"PlayFab", 
+        "rol":"Game programmer",
+        "enlace": ""
+    }
+]
