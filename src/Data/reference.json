@@ -1,22 +1,25 @@
 [
     {
-        "foto": "",
+        "foto": "src/assets/Photos/Photo_Jhon.png",
         "nombre": "Jhon Mario Aza",
-        "recomendacion": "",
-        "linkedin": ""
+        "area": "Environment artist",
+        "recomendacion": "He tenido la oportunidad de trabajar con Andrea en varios proyectos de videojuegos donde demostramos el manejo de Unity y la integración de mecánicas complejas. Andrea es una programadora excepcional con un profundo conocimiento en desarrollo de software, no solo en videojuegos, sino también en aplicaciones web. Andrea no solo aporta una sólida experiencia técnica, sino también un enfoque colaborativo y orientado a resultados. Su habilidad para solucionar problemas y su disposición para compartir su conocimiento hicieron que trabajar con ella fuera una experiencia enriquecedora para el equipo.",
+        "linkedin": "https://www.linkedin.com/in/aiid3n/"
     },
 
     {
-        "foto": "",
+        "foto": "src/assets/Photos/Photo_Jhon.png",
         "nombre": "Angela",
-        "recomendacion": "",
-        "linkedin": ""
+        "area": "Desarrolladora Front End",
+        "recomendacion": "Es una persona comprometida, dispuesta, con una gran actitud, buena comunicación y trabajo en equipo, un buen líder, he trabajado con Andrea en 3 Jams de videojuegos y gracias a su compromiso se han logrado proyectos de calidad y que superan las expectativas.",
+        "linkedin": "https://www.linkedin.com/in/aiid3n/"
     },
 
     {
-        "foto": "",
-        "nombre": "Gabriela",
-        "recomendacion": "",
-        "linkedin": ""
+        "foto": "src/assets/Photos/Photo_Joel.png",
+        "nombre": "Joel Valencia",
+        "area": "Ingeniero mecánico - Científico de datos",
+        "recomendacion": "Tuve el placer de estudiar programación y colaborar en varios proyectos con Andrea. Es una desarrolladora excepcional, destacándose no solo por su habilidad técnica y creatividad, sino también por sus habilidades blandas. Su capacidad para trabajar en equipo, comunicarse eficazmente y resolver problemas de manera innovadora la convierten en una profesional integral y valiosa en cualquier equipo de desarrollo",
+        "linkedin": "https://www.linkedin.com/in/joel-valencia-1403j/"
     }
 ]

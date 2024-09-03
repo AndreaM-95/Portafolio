@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+}
+
+.slick-dots {
+    bottom: 1;
+}
+
+.slick-dots li button:before {
+    color: #aca9a9; /* Color blanco para los dots inactivos */
+    font-size: 12px;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #0B7C83;
+}
+
+/*CONTACTO*/
+#contact{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90vh;
+}
+
+/* Quitar height: 90vh en pantallas pequeñas */
+@media (max-width: 640px) {
+    #contact {
+        height: auto;
+    }
+    .contact-sld{
+        width: 80%;
+        margin: 10% 0;
+    }
+}
