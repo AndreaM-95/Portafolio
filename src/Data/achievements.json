@@ -1,30 +1,37 @@
 [
     {
-        "imagen": "",
-        "texto": ""    
+        "imagen": "src/assets/Photos/Cifrador.png",
+        "alt": "Insignia cifrador de texto",
+        "texto": "Cifrador de texto - Alura + Oracle"    
     },
     {
-        "imagen": "",
-        "texto": ""    
+        "imagen": "src/assets/Photos/e-commerce.png",
+        "alt": "Insingia proyecto e-commerce",
+        "texto": "E-Commerce - Alura + Oracle"    
     },
     {
-        "imagen": "",
-        "texto": ""    
+        "imagen": "src/assets/Photos/portafolio.png",
+        "alt": "Insignia portafolio de proyectos",
+        "texto": "Portafolio - Alura + Oracle"    
     },
     {
-        "imagen": "",
-        "texto": ""    
+        "imagen": "src/assets/Photos/Juego.png",
+        "alt": "Insignia del juego",
+        "texto": "Juego con javascript - Alura + Oracle"    
     },
     {
-        "imagen": "",
-        "texto": ""    
+        "imagen": "src/assets/Photos/Convertidor.png",
+        "alt": "Insignia convertidor de unidades",
+        "texto": "Conversor de unidades - Alura + Oracle"    
     },
     {
-        "imagen": "",
-        "texto": ""    
+        "imagen": "src/assets/Photos/Hotel.png",
+        "alt": "Insignia hotel con java",
+        "texto": "Hotel- Java - Alura + Oracle"    
     },
     {
-        "imagen": "",
-        "texto": ""    
+        "imagen": "src/assets/Photos/Mentoria.png",
+        "alt": "Certificado de mentoria",
+        "texto": "Mentoria en Jams - Generation"    
     }
 ]

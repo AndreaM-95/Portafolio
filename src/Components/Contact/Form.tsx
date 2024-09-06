@@ -1,7 +1,7 @@
 export default function Form() {
     return (
         <div className="w-full sm:w-11/12 md:w-7/12 lg:w-3/12">
-            <h1 className="dark:text-gray-200 text-center text-gray-900 text-2xl font-bold my-4">Contactame</h1>
+            <h1 className="dark:text-gray-200 text-center text-gray-900 text-3xl font-bold my-4">Contáctame</h1>
             <form className="max-w-sm mx-auto dark:bg-[#1F1F1F] bg-[#68cbe9] p-5 rounded-xl w-full shadow-md shadow-gray-700 dark:shadow-none">
                 <label htmlFor="name" className="block my-2 text-sm font-medium dark:text-gray-300 text-gray-900">Nombre:</label>
                 <input type="text" id="name" aria-describedby="helper-text-explanation" className="bg-[#ECECEC] dark:bg-[#292929] text-gray-900 text-sm rounded-lg w-full p-2.5 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Escribe aqui.."></input>

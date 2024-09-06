@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+}
+
+#description{
+    height: 81vh;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.colaboradores-box3{        /*CAJA DE FOTO*/
+    width: auto;
+    display: flex;
+    justify-content: start;
+    padding-top: 2rem;
+}
+
+.colab-box1{
+    position: relative;
+    max-width: none;
+    margin-right: 30px;
+}
+.colab-box1::before {
+    content: "";
+    position:absolute;
+    inset: -15px;
+    border: 5px solid #09b58a;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-radius: 100%;
+    animation: spin 5s linear infinite; 
+}
+@keyframes spin {
+   to{ transform: rotate(360deg);}
+}
+.img_colab1{
+    width: 270px;
+    height: 270px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.nombre{
+    background-image: linear-gradient(90deg, #7dd2b4, #09b58a);
+    background-clip: text;
+    -webkit-text-stroke-color: transparent;
+    -webkit-background-clip: text;
+    color: transparent;
+}

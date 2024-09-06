@@ -1,25 +1,31 @@
 [
-    {"icono": "",
+    {
+        "icono": "",
         "habilidad": "Lenguajes",
         "lista": ""
     },
-    {"icono": "",
+    {
+        "icono": "",
         "habilidad": "Estilizado",
         "lista": ""
     },
-    {"icono": "",
+    {
+        "icono": "",
         "habilidad": "Frameworks",
         "lista": ""
     },
-    {"icono": "",
+    {
+        "icono": "",
         "habilidad": "Backend",
         "lista": ""
     },
-    {"icono": "",
+    {
+        "icono": "",
         "habilidad": "Bases de datos",
         "lista": ""
     },
-    {"icono": "",
+    {
+        "icono": "",
         "habilidad": "Fortalezas",
         "lista": "Mentalidad de crecimiento Orientación al detalle Orientación al futuro Gestión del tiempo Adaptabilidad Liderazgo"
     }
