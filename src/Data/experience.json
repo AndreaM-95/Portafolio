@@ -1,22 +1,51 @@
 [
     {"cargo": "Programador de videojuegos web", 
-    "empresa": "Books & Books Ltda", 
+    "empresa": "Books & Books LTDA", 
     "tiempo": "Abril - Noviembre 2023",
-    "tareas": "'Programé y diseñé simuladores interactivos utilizando Unity y C#.','Implementé interfaces de usuario intuitivas y responsivas.','Colaboré en la creación de entornos 3D para seis escenasdiferentes, mejorando la inmersión del usuario.'",
-    "tags":"Unity"
+    "tareas": [
+      "Programé y diseñé simuladores interactivos utilizando Unity y C#.",
+      "Implementé interfaces de usuario intuitivas y responsivas.",
+      "Colaboré en la creación de entornos 3D para seis escenas diferentes, mejorando la inmersión del usuario."
+    ],
+    "tags": [
+        "Unity",
+        "C#",
+        "UI",
+        "PC",
+        "Móvil",
+        "3D",
+        "WebGL",
+        "Playcanvas",
+        "Javascript"
+    ]
     },
 
     {"cargo": "Modelador 3D", 
-    "empresa": "Workobot", 
-    "tiempo": "3 meses",
-    "tareas": "",
-    "tags":"Unity"
+    "empresa": "Workobot LTDA", 
+    "tiempo": "Junio - Agosto 2023",
+    "tareas": [
+      "Modelé edificios y elementos arquitectónicos utilizando 3DMax.",
+      "Integré modelos 3D en Unity, optimizando los tiempos de carga y la calidad visual."
+    ],
+    "tags": [
+        "Unity",
+        "3DMax",
+        "3D"
+    ]
     },
 
     {"cargo": "Monitora - Practicas", 
-    "empresa": "Sena", 
-    "tiempo": "3 meses",
-    "tareas": "",
-    "tags":"Javascript"
+    "empresa": "SENA", 
+    "tiempo": "Abril - Septiembre 2021",
+    "tareas": [
+      "Diseñé, programé y desplegué una página web educativa utilizando HTML5, CSS3, y Javascript.",
+      "Logré crear una plataforma informativa robusta con la informaciónsolicitada para la coordinación de industrias alimentarias."
+    ],
+    "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "Pagina web"
+    ]
     }
 ]

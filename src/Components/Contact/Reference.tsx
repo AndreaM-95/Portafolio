@@ -26,8 +26,8 @@ export default function Reference() {
                 {reference.map((d) => (
                     <div key={d.nombre} className='flex flex-col items-center justify-center'>
                         {/*<img src={d.foto} alt='Foto' className='w-28 rounded-full mx-auto'></img>*/}
-                        <p className='text-xl font-semibold dark:text-gray-200 text-gray-900 text-center'>{d.nombre}</p>
-                        <p className='text-base italic dark:text-gray-400 text-gray-900 text-center'>{d.area}</p>
+                        <h3 className='text-xl font-semibold dark:text-gray-200 text-gray-900 text-center mb-2'>{d.nombre}</h3>
+                        <p className='text-base italic dark:text-gray-400 text-gray-900 text-center mb-2'>{d.area}</p>
                         <p className='text-[13px] dark:text-gray-300 text-gray-900'>"{d.recomendacion}"</p>
                         <button className='w-full sm:w-20 dark:bg-teal-700 bg-[#0B7C83] hover:font-bold py-1 rounded text-gray-200 mt-2' onClick={() => OpenPage(d.linkedin)}>Linkedin
                         </button>

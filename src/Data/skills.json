@@ -1,32 +1,82 @@
 [
     {
-        "icono": "",
-        "habilidad": "Lenguajes",
-        "lista": ""
-    },
-    {
-        "icono": "",
-        "habilidad": "Estilizado",
-        "lista": ""
-    },
-    {
-        "icono": "",
-        "habilidad": "Frameworks",
-        "lista": ""
-    },
-    {
-        "icono": "",
-        "habilidad": "Backend",
-        "lista": ""
-    },
-    {
-        "icono": "",
-        "habilidad": "Bases de datos",
-        "lista": ""
-    },
-    {
-        "icono": "",
         "habilidad": "Fortalezas",
-        "lista": "Mentalidad de crecimiento Orientación al detalle Orientación al futuro Gestión del tiempo Adaptabilidad Liderazgo"
+        "lista": [
+            "Gestión del tiempo",
+            "Liderazgo",
+            "Orientación al detalle",
+            "Adaptabilidad",
+            "Persistencia",
+            "Trabajo en equipo",
+            "Creatividad"
+        ]
+    },
+    {
+        "habilidad": "Lenguajes",
+        "lista": [
+            "C#",
+            "Javascript",
+            "Typescript",
+            "Tipado - HTML5"
+        ]
+    },
+    {
+        "habilidad": "Frameworks",
+        "lista": [
+            "React",
+            "Angular"
+        ]
+    },
+    {
+        "habilidad": "Estilizado",
+        "lista": [
+            "CSS3",
+            "SASS",
+            "LESS",
+            "Bootstrap",
+            "Tailwind"
+        ]
+    },
+    {
+        "habilidad": "Bases de datos",
+        "lista": [
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "API Rest",
+            "Node JS"
+        ]
+    },
+    {
+        "habilidad": "Testing",
+        "lista": [
+            "Jest",
+            "Postman"
+        ]
+    },
+    {
+        "habilidad": "Control de versiones",
+        "lista": [
+            "GIT - GitHub"
+        ]
+    },
+    {
+        "habilidad": "Metodologías",
+        "lista": [
+            "SCRUM",
+            "Principios UX-UI",
+            "Accesibilidad",
+            "SEO básico",
+            "Diseño responsivo"
+        ]
+    },
+    {
+        "habilidad": "Herramientas adicionales",
+        "lista": [
+            "Unity",
+            "Figma",
+            "Illustrator",
+            "Blender"
+        ]
     }
 ]

@@ -3,9 +3,9 @@ import { faFileAlt, faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faLinkedin, faItchIo} from '@fortawesome/free-brands-svg-icons';
 import './about-me.css';
 
-export default function Description() {
+export default function Description({functionDescription}) {
     return(
-        <section id="description" className="dark:bg-[#121212] flex md:flex-row items-center my-10">
+        <section className="dark:bg-[#121212] flex md:flex-row items-center my-10 flex-wrap justify-center animate-fade-down">
             <div className=" w-[40%] ">
                 <h1 className="nombre sm:text-4xl text-3xl mb-4 font-medium">Andrea Mejia</h1>
                 <h2 className='text-2xl italic dark:text-gray-400 text-gray-900 mb-2'>Desarrolladora de software</h2>
@@ -23,9 +23,9 @@ export default function Description() {
                     <a href="https://andreamejia.itch.io/" target="_blank" rel="noopener noreferrer" className='text-gray-700 dark:text-[#1BD8AA] hover:text-sky-500 dark:hover:text-teal-100'>
                         <FontAwesomeIcon icon={faItchIo} size="2x" />
                     </a>
-                    <a href="" className='text-gray-700 dark:text-[#1BD8AA] hover:text-sky-500 dark:hover:text-teal-100 hover:font-medium'> Ver más
+                    <button onClick={functionDescription} className='text-gray-700 dark:text-[#1BD8AA] hover:text-sky-500 dark:hover:text-teal-100 hover:font-medium'> Ver más
                         <FontAwesomeIcon icon={faArrowRight} size="1x"  className='ml-2'/>
-                    </a>
+                    </button>
                 </div>
             </div>
 

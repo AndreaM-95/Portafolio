@@ -1,0 +1,53 @@
+[
+    {
+        "logo": "src/assets/Logos/Logo_Cymetria.png",
+        "alt": "Logo Cymetria",
+        "fecha": "2024",
+        "estudios": [
+            "Desarrollador web Full-Stack"
+        ]
+    },
+    {
+        "logo": "src/assets/Logos/Logo_Google.png",
+        "alt": "Logo Google",
+        "fecha": "2023",
+        "estudios": [
+            "UX - UI"
+        ]
+    },
+    {
+        "logo": "src/assets/Logos/Logo_Generation.png",
+        "alt": "Logo Generation",
+        "fecha": "2023",
+        "estudios": [
+            "Desarrollador junior de Unity"
+        ]
+    },
+    {
+        "logo": "src/assets/Logos/Logo_UTP.png",
+        "alt": "Logo UTP",
+        "fecha": "2022",
+        "estudios": [
+            "Aplicaciones web",
+            "Desarrollo de software",
+            "Programación con Java",
+            "Programación con Python"
+        ]
+    },
+    {
+        "logo": "src/assets/Logos/Logo_Alura.png",
+        "alt": "Logo Alura",
+        "fecha": "2022",
+        "estudios": [
+            "Desarrollador Front End"
+        ]
+    },
+    {
+        "logo": "src/assets/Logos/Logo_SENA.png",
+        "alt": "Logo del SENA",
+        "fecha": "2020 - 2022",
+        "estudios": [
+            "Tecnólogo en procesamiento de alimentos"
+        ]
+    }
+]

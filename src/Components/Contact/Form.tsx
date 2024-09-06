@@ -1,6 +1,6 @@
 export default function Form() {
     return (
-        <div className="w-full sm:w-11/12 md:w-7/12 lg:w-3/12">
+        <div className="w-full sm:w-11/12 md:w-7/12 lg:w-3/12 animate-fade">
             <h1 className="dark:text-gray-200 text-center text-gray-900 text-3xl font-bold my-4">Contáctame</h1>
             <form className="max-w-sm mx-auto dark:bg-[#1F1F1F] bg-[#68cbe9] p-5 rounded-xl w-full shadow-md shadow-gray-700 dark:shadow-none">
                 <label htmlFor="name" className="block my-2 text-sm font-medium dark:text-gray-300 text-gray-900">Nombre:</label>

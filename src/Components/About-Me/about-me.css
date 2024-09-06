@@ -8,8 +8,6 @@
 
 #description{
     height: 81vh;
-    justify-content: center;
-    flex-wrap: wrap;
 }
 
 .colaboradores-box3{        /*CAJA DE FOTO*/
@@ -50,4 +48,44 @@
     -webkit-text-stroke-color: transparent;
     -webkit-background-clip: text;
     color: transparent;
+}
+
+.skills::after {
+    content: "";
+    width: 350px;
+}
+
+/*FORMACION*/
+.formacion-box{
+    background-color:#cbcbcf;
+    border-radius: 5px;
+    width: 15%;
+}
+
+.contenedor figure{
+    position:relative;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+.contenedor figure img{
+    width: 80%;
+    height: auto;
+    transition: all 400ms ease-out;
+    will-change: transform;
+}
+
+.capa{
+    position: absolute;
+    top: 0;
+    transition: all 400ms ease-out;
+    opacity: 0;
+    visibility: hidden;
+}
+.contenedor figure:hover > .capa {
+    opacity: 1;
+    visibility: visible;
+    background-color:#cbcbcf;
 }
