@@ -8,6 +8,7 @@ import Skills from "../../Components/About-Me/Skills";
 import Formation from "../../Components/About-Me/Formation";
 import useToggleVisibility from '../../Hooks/More-Info';
 import '../../Components/About-Me/about-me.css'
+//import DescProjects from '../../Components/PageProjects/Desc-Projects';
 
 export default function AboutMe() {
   const { toggleView } = useToggleVisibility();
@@ -17,6 +18,7 @@ export default function AboutMe() {
       {/* #description section */}
       <section id="description" className="flex justify-center flex-wrap">
         <Description functionDescription={toggleView}/>
+        {/*<DescProjects />*/}
       </section>
 
       {/* #more-info section */}

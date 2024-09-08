@@ -63,7 +63,7 @@ const Navbar = () => {
                           className={classNames(
                             isActive
                               ? 'border-b-2 border-[#0B7C83] dark:border-[#1BD8AA] dark:text-[#1BD8AA] text-[#0B7C83]'
-                              : 'border-b-2 border-transparent dark:text-gray-300 text-gray-700 hover:dark:text-[#1BD8AA] hover:text-teal-700 hover:border-[#1BD8AA] hover:border-teal-700',
+                              : 'border-b-2 border-transparent dark:text-gray-300 text-gray-700 dark:hover:text-[#1BD8AA] hover:text-teal-700',
                             'px-3 py-2 text-sm font-medium'
                           )}
                           aria-current={isActive ? 'page' : undefined}

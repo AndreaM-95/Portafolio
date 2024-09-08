@@ -1,34 +1,180 @@
 [
     {
-        "tipo": "Web",
-        "imagen":"", 
-        "titulo":"To-Do", 
-        "tag1":"React", 
-        "tag2":"Tailwind", 
-        "tag3":"Jenkins", 
-        "rol":"",
-        "enlace": ""
+        "tipo":"web",
+        "contenido":
+        [
+            {
+            "imagen":"src/assets/Img/Inventario_2.jpg",
+            "alt": "Imágen del inventario",
+            "titulo":"Control de inventario", 
+            "tags":["React js", "Typescript", "Express", "Tailwind", "CSS3", "Node js", "MySQL"],  
+            "rol":"Full Stack",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/TODO_1.jpg",
+            "alt": "Imágen de la app", 
+            "titulo":"APP To-Do", 
+            "tags":["React js", "Javascript", "Jenkins", "Tailwind", "CSS3"],  
+            "rol":"Front End",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Tocando_1.png",
+            "alt": "Imágen de tocando el alma", 
+            "titulo":"Tocando el alma", 
+            "tags":["React", "Javascript","Mongo DB", "Bootstrap", "CSS3"],  
+            "rol":"Full Stack",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Rescatando_1.png", 
+            "alt": "Imágen de rescatando patitas",
+            "titulo":"Rescatando patitas", 
+            "tags":["Java", "Bootstrap", "CSS3", "HTML", "MySQL"],  
+            "rol":"Front End",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Tentacion_1.png", 
+            "alt": "Imágen de página",
+            "titulo":"Tentación Arte-Sana", 
+            "tags":["E-Commerce", "Javascript", "HTML", "CSS3", "Bootstrap", "Localstorage"],  
+            "rol":"Full Stack",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Cifrador_1.png", 
+            "alt": "Imágen de página",
+            "titulo":"Cifrador de texto", 
+            "tags":["Javascript", "HTML", "CSS3", "Bootstrap"],  
+            "rol":"Front End",
+            "enlace": ""
+            }
+        ]
+    },
+    {
+        "tipo": "juegos",
+        "contenido":
+        [
+            {
+            "imagen":"src/assets/Img/Inventario_2.jpg", 
+            "alt": "Imágen de",
+            "titulo":"RA", 
+            "tags":["Unity", "C#", "RA", "Vuforia", "UI", "3D", "Móvil"],  
+            "rol":"Game Developer - UI",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Ajiaco_1.png", 
+            "alt": "Imágen del juego",
+            "titulo":"Ajiaco apurado", 
+            "tags":["GGJ 2024", "Unity", "C#", "UI", "3D", "PC"],  
+            "rol":"Game Developer - UI - Animación",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Inventario_2.jpg", 
+            "alt": "Imágen del juego",
+            "titulo":"Game memory", 
+            "tags":["Unity", "C#", "Jenkins", "Tailwind", "UI", "3D", "PC"],  
+            "rol":"Game Developer - UI -",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Explorar_1.png", 
+            "alt": "Imágen del juego",
+            "titulo":"Exploración", 
+            "tags":["Unity", "C#", "Playfab", "3D", "PC"],  
+            "rol":"Game Developer - UI",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Mystical_1.png", 
+            "alt": "Imágen del juego",
+            "titulo":"Mystical world", 
+            "tags":["Unity", "C#", "Jenkins", "Tailwind", "UI", "3D", "PC"],  
+            "rol":"Game Developer - UI -",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Swipe_1.png", 
+            "alt": "Imágen del juego",
+            "titulo":"Swipe the future", 
+            "tags":["Unity", "C#", "Jenkins", "Tailwind", "UI", "3D", "PC"],  
+            "rol":"Game Developer - UI -",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Rescue_1.png", 
+            "alt": "Imágen del juego",
+            "titulo":"Rescue at sea", 
+            "tags":["Unity", "C#", "Jenkins", "Tailwind", "UI", "3D", "PC"],  
+            "rol":"Game Developer - UI -",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Ahorcado_1.png", 
+            "alt": "Imágen del juego",
+            "titulo":"El ahorcado", 
+            "tags":["Javascript", "HTML", "CSS3", "Bootstrap"],  
+            "rol":"Front End",
+            "enlace": ""
+            }
+        ]
     },
     
     {
-        "tipo": "",
-        "imagen":"", 
-        "titulo":"Ajiaco Apurado", 
-        "tag1":"Unity", 
-        "tag2":"C#", 
-        "tag3":"GGJ", 
-        "rol":"",
-        "enlace": ""
+        "tipo": "3d",
+        "contenido":
+        [
+            {
+            "imagen":"src/assets/Img/Oso_1.png", 
+            "alt": "Imágen del oso",
+            "titulo":"Osito de carreras", 
+            "tags":["Blender", "3D"],  
+            "rol":"Modelador 3D",
+            "enlace": ""
+            }
+        ]
     },
     
     {
-        "tipo": "",
-        "imagen":"", 
-        "titulo":"Exploración", 
-        "tag1":"Unity", 
-        "tag2":"C#", 
-        "tag3":"PlayFab", 
-        "rol":"Game programmer",
-        "enlace": ""
+        "tipo": "2d",
+        "contenido":
+        [
+            {
+            "imagen":"src/assets/Img/Inventario_2.jpg", 
+            "alt": "Imágen de arte",
+            "titulo":"Environment - Correr o morir", 
+            "tags":["Illustrator", "UI"],  
+            "rol":"Artista 2D",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Ajiaco_2.png", 
+            "alt": "Imágen de UI",
+            "titulo":"UI - Ajiaco apurado", 
+            "tags":["Illustrator", "UI"],  
+            "rol":"Artista 2D",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Mystical_2.png", 
+            "alt": "Imágen de UI",
+            "titulo":"UI - Mystical world", 
+            "tags":["Illustrator", "UI"],  
+            "rol":"Artista 2D",
+            "enlace": ""
+            },
+            {
+            "imagen":"src/assets/Img/Rescue_2.png", 
+            "alt": "Imágen de UI",
+            "titulo":"UI - Rescue at sea", 
+            "tags":["Illustrator", "UI"],  
+            "rol":"Artista 2D",
+            "enlace": ""
+            }
+        ]
     }
 ]

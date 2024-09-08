@@ -1,0 +1,603 @@
+[
+    {
+        "titulo":"Control de inventario",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"APP TO-DO",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Tocando el alma",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Rescatando patitas",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Tentación Arte-Sana",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Cifrador de texto",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"RA",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Ajiaco apurado",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Game memory",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Exploración",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Mystical world",
+        "descripcion": "Actualmente, estoy inmersa en el desarrollo de una emocionante versión beta donde desempeño múltiples roles, incluyendo Game programmer, UI y Environment. Utilizando el potente lenguaje de programación C# y el motor de videojuegos Unity; estamos creando una experiencia envolvente basada en la mitología griega.En este juego, los jugadores se embarcarán en una épica aventura para rescatar a la hermana del protagonista, cuya voz tiene el poder único de controlar criaturas legendarias como Sátiros, Gigantes y Minotauros. Con un enfoque ágil utilizando la metodología SCRUM, estamos trabajando arduamente para ofrecer una experiencia de juego inmersiva y emocionante que cautivará a los jugadores y los transportará a un mundo lleno de misterio y peligro.",
+        "fotos": 
+        [
+            "src/assets/Img/Inventario_2.jpg",
+            "src/assets/Img/Inventario_2.jpg",
+            "src/assets/Img/Inventario_2.jpg",
+            "src/assets/Img/Inventario_2.jpg"
+        ],
+        "video": "https://www.youtube.com/watch?v=GgeGQOP10RQ&ab_channel=IDOLFACTORYOFFICIAL",
+        "estado": "Versión 2: Prevista para 24 de noviembre",
+        "tags": 
+        [
+            "Acción", "Aventura","RPG" 
+        ],
+        "areas": 
+        [
+            "⚙️ Mecánicas de Juego - Programación:",
+            "🏕️ Diseño de Nivel",
+            "🎨 Interfaz de Usuario (UI)",
+            "💃 Animación"
+        ],
+        "funciones":
+        [
+            "Implementación del sistema de combate del jugador contra los enemigos, con movimientos fluidos y dinámicos. Desarrollo del sistema de recolección de ítems, tales como armas y elementos de salud, para potenciar la jugabilidad. Integración de mecánicas de juego que afectan la salud del jugador, como la exposición al fuego y agua contaminada. Implementación de un sofisticado sistema de detección del jugador por parte de los enemigos. Diseño y programación del sistema de ataque con armas, incluyendo el uso de espadas y arcos para ofrecer opciones estratégicas al jugador.",
+            "Responsable del diseño y creación del entorno para el nivel 2 y el 50% del nivel 3. Incluye elementos como explosiones, efectos de partículas de fuego y agua, presencia de mariposas, enemigos y edificaciones destruidas. Incorporación de elíxires como elementos de recuperación de salud para el jugador.",
+            "Diseño e integración completa de la interfaz gráfica, incluyendo cinemáticas, HUD (Head-Up Display), GUI (Interfaz Gráfica de Usuario), menús, pausas, pantalla de Game Over y de victoria, entre otros elementos.",
+            "Creación y desarrollo de un árbol de animaciones para todos los personajes, incluyendo el jugador, enemigos básicos y avanzados."
+        ], 
+        "equipo": 
+        [
+            "Andrea Mejia",
+            "Jhon Mario Aza"
+        ],
+        "roles":
+        [
+            "Programación",
+            "Arte",
+            "Entorno"
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Swipe the future",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Rescue at sea",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"El ahorcado",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Osito de carreras",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"Environment - Correr o morir",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"UI - Ajiaco apurado",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"UI - Mystical world",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    },
+    {
+        "titulo":"UI - Rescue at sea",
+        "descripcion": "",
+        "fotos": 
+        [
+            ""
+        ],
+        "video": "",
+        "estado": "",
+        "tags": 
+        [
+            ""
+        ],
+        "areas": 
+        [
+            ""
+        ],
+        "funciones":
+        [
+            ""
+        ], 
+        "equipo": 
+        [
+            ""
+        ],
+        "roles":
+        [
+            ""
+        ],
+        "sitio":""
+    }
+]
