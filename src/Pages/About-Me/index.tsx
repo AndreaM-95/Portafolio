@@ -11,17 +11,14 @@ import '../../Components/About-Me/about-me.css'
 //import DescProjects from '../../Components/PageProjects/Desc-Projects';
 
 export default function AboutMe() {
-  const { toggleView } = useToggleVisibility();
+  const { toggleView } = useToggleVisibility('description', 'more-info');
 
   return (
     <main>
-      {/* #description section */}
       <section id="description" className="flex justify-center flex-wrap">
-        <Description functionDescription={toggleView}/>
-        {/*<DescProjects />*/}
-      </section>
+      <Description functionDescription={toggleView} />
+    </section>
 
-      {/* #more-info section */}
       <section id="more-info" className="hidden flex justify-center flex-wrap animate-fade-left">
         <div className="w-4/5 flex justify-end my-6">
           <button className="text-gray-700 dark:text-[#1BD8AA]" onClick={toggleView}>
